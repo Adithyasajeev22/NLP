@@ -1,0 +1,3 @@
+Review,Sentiment,Polarity,Subjectivity,Word_Count,Character_Count,Most_Frequent_Word
+the product was usefull,Neutral,0.0,0.0,4,23,the
+it is good,Positive,0.7,0.6000000000000001,3,10,it

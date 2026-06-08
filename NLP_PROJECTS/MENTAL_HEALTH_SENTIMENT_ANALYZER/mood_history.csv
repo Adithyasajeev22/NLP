@@ -1,0 +1,5 @@
+Date,Text,Mood,Polarity,MoodScore
+2026-06-08 18:56:54,yes,Neutral,0.0,50.0
+2026-06-08 18:59:42,stressed,Neutral,0.0,50.0
+2026-06-08 19:15:55,very good today,Positive,0.9099999999999999,95.5
+2026-06-08 19:16:08,very bad today,Negative,-0.9099999999999998,4.5

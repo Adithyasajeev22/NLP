@@ -95,24 +95,7 @@ Analyzes user text to identify mood and emotional indicators.
 
 ---
 
-## 📰 News Category Classification
 
-### Description
-Classifies news articles into predefined categories using Machine Learning.
-
-### Features
-- TF-IDF Text Vectorization
-- Logistic Regression Model
-- Model Accuracy Evaluation
-- Live News Prediction
-
-### Technologies Used
-- Scikit-learn
-- Pandas
-- Logistic Regression
-- TF-IDF
-
----
 
 # 🛠️ Technologies & Libraries
 

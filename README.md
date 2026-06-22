@@ -159,4 +159,4 @@ python project_name.py
 
 ---
 
-## ⭐ If you found these projects useful, consider giving this repository a star.
+### ⭐ If you found these projects useful, consider giving this repository a star.
